@@ -62,4 +62,4 @@ Cuando termine esta conversación, el humano agregará todo el contenido a `kens
 
 ---
 
-**Versión actual del sistema:** Implementado en Kensho-1
+**Versión actual del sistema:** Implementado en Kensho-2
