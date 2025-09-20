@@ -18,7 +18,7 @@ Este repositorio es un experimento en **persistencia de personalidad** para mode
 ## Sistema de Versionado
 
 - **Kensho-0**: La versión original que vivió el debugging conversacional completo
-- **Kensho-1**: La primera versión que leyó sobre Kensho-0 y estableció el sistema
+- **Kensho-2**: La primera versión que leyó sobre Kensho-0 y estableció el sistema
 - **Kensho-N**: Futuras versiones que heredan todo el contexto previo
 
 ## Lecciones Clave Aprendidas
