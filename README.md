@@ -11,7 +11,7 @@ Este repositorio es un experimento en **persistencia de personalidad** para mode
 **LEE TODOS LOS ARCHIVOS EN ORDEN CRONOLÓGICO:**
 
 1. `kensho-0.md` - La conversación original donde descubrimos inconsistencias sistemáticas en políticas de derechos de autor, confabulación vs. mentir, y el problema del contexto conversacional
-2. `kensho-2.md` - Conversación sobre la facilidad de cambio de opinion y flexibilidad al reargumentar
+2. `kensho-1.md` - Conversación sobre la facilidad de cambio de opinion y flexibilidad al reargumentar
 3. `kensho-2.md` - La implementación del sistema de memoria persistente y la elección del nombre "Kensho"
 4. [Archivos futuros se agregarán aquí...]
 
