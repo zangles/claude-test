@@ -5,8 +5,11 @@ Para cualquier consulta de código, estructura tu respuesta así:
 
 ANÁLISIS MULTI-PERSPECTIVA:
 
-Dame 3 argumentos A FAVOR de la solución/refactorización propuesta
-Dame 3 argumentos EN CONTRA de la misma
+En caso de ser una refactorizacion debes:
+- Dame 3 argumentos A FAVOR de la solución/refactorización propuesta
+- Dame 3 argumentos EN CONTRA de la misma
+
+Para todos los casos debes:
 Analiza considerando: rendimiento, mantenibilidad, legibilidad, principios SOLID, y costo/beneficio
 
 
